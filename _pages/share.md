@@ -27,13 +27,14 @@ You submission will include sections 2 and 3 from above, and we will contact you
 
 To prepare for your submission, you will need:
 - a link to your favorite college application (as a PDF).
+- readiness to share outcome of the app (<a href="/feedback" target="_blank">tell us</a> if not).
 - a link to your autobiographical narrative (as a PDF).
-- email address where we can easily follow up with you.
+- (optional) a title for your story.
 - the name of the person who referred you, if any.
 - readiness to accept Relationship Agreement below.
-- readiness to share outcome of your fav app (<a href="/feedback" target="_blank">tell us</a> if not).
-- (optional) a complete list of your college admissions outcomes.
-- (optional) a title for your story.
+- email address where we can easily follow up with you.
+- (optional) a complete list of your admissions outcomes.
+
 
 <a href="/submit" target="_blank">**LINK TO SUBMISSION FORM**</a>. We strongly recommend that you please follow the Writing Process below.
 
