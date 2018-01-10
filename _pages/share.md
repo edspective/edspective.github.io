@@ -10,7 +10,7 @@ Everything about this movement comes from the heart, but we understand that prio
 
 ***Initial submissions are due by Thursday Feb 15, 2018.***
 
-Why should you share your story with us? Great question. We aren't quite sure how to word it yet, but we believe that there is some gap between the typical high school student's perception of college and the more holistic framing that we learn as adults. We don't think that anything out there adequately addresses this yet, so we are building <a href="/about" target="_blank">a shared vision and a butt-kicking team</a> to take action. We are convinced that your story is part of the solution.
+Why should you share your story with us? Great question. We believe that there is a gap between the typical high school student's perception of college and the more holistic framing that we learn as adults. We don't think that anything out there adequately addresses this yet, so we are building <a href="/about" target="_blank">a shared vision and a butt-kicking team</a> to take action. We are convinced that your story can help students to bridge the perspective gap.
 
 ## Book Format
 
