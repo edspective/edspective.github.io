@@ -15,9 +15,9 @@ Why should you share your story with us? Great question. We believe that there i
 ## Book Format
 
 The _Shape of College_ is a collection of student profiles. We are going for a vibe similar to <a href="https://www.portraitsofresilience.com/" target="_blank">Portraits of Reslience</a> or <a href="http://www.humansofnewyork.com/" target="_blank">Humans of New York</a>. Each profile will include three sections:
-1. What the world sees. A headshot accompanied by a brief biographical blurb.
-2. What the admissions office sees. Your favorite sample college application accompanied by a list of admissions outcomes.
-3. What nobody sees. A 3-5 page autobiographical snippet about how your view of the world has changed since leaving high school.
+1. What we show the world. A headshot accompanied by a brief biographical blurb.
+2. What we show admissions. Your favorite sample college application accompanied by a list of admissions outcomes.
+3. What we show no one. A 3-5 page autobiographical snippet about how your view of the world has changed since leaving high school.
 
 ## Submission Process
 
@@ -27,11 +27,12 @@ You submission will include sections 2 and 3 from above, and we will contact you
 
 To prepare for your submission, you will need:
 - a link to your favorite college application (as a PDF).
+- admissions outcome for that application.
 - a link to your autobiographical narrative (as a PDF).
-- a complete list of your college admissions outcomes.
 - email address where we can easily follow up with you.
 - the name of the person who referred you, if any.
 - readiness to accept Relationship Agreement below.
+- (optional) a complete list of your college admissions outcomes.
 - (optional) a title for your story.
 
 <a href="/submit" target="_blank">**LINK TO SUBMISSION FORM**</a>. We strongly recommend that you please follow the Writing Process below.
