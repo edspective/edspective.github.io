@@ -12,7 +12,7 @@ Our target is to publish at least 100 stories, which means we want to receive a 
 
 ## Book Format
 
-The _Shape of College_ is a collection of student profiles. Each profile will ultimately include three sections:
+The _Shape of College_ is a collection of student profiles. We are going for a vibe similar to <a href="https://www.portraitsofresilience.com/" target="_blank">Portraits of Reslience</a> or <a href="http://www.humansofnewyork.com/" target="_blank">Humans of New York</a>. Each profile will include three sections:
 1. What the world sees. A headshot accompanied by a brief biographical blurb.
 2. What the admissions office sees. Your favorite sample college application accompanied by a list of admissions outcomes.
 3. What nobody sees. A 3-5 page autobiographical snippet about how your view of the world has changed since leaving high school.
