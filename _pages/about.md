@@ -18,4 +18,4 @@ Nina and Andy met as 2014 <a href="https://en.wikipedia.org/wiki/Presidential_Sc
 
 ## Want to join us?
 
-Movements don't grow on their own! We know from experience that it requires hard work, and we would love help. If you are interested in joining the team, please <a href="/feedback" target="_blank">leave us a note</a>!
+Movements don't grow on their own! We know from experience that it requires hard work, and we would love help. Please consider <a href="/share" target="_blank">sharing your story with us</a>, and if you are interested in joining the organizing team, please <a href="/feedback" target="_blank">leave us a note</a>!
