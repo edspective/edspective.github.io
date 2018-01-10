@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,15 +61,15 @@
      transform="translate(144.6385,17.625616)">
     <text
        xml:space="preserve"
-       style="font-size:242.90354919px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
-       x="-421.22083"
-       y="690.46039"
+       style="font-size:228.66731262px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+       x="-389.26947"
+       y="686.8125"
        id="text2985"
        sodipodi:linespacing="125%"
        transform="matrix(0.90048984,-0.43487706,0.43487706,0.90048984,0,0)"><tspan
          sodipodi:role="line"
-         x="-421.22083"
-         y="690.46039"
+         x="-389.26947"
+         y="686.8125"
          id="tspan2995"
          style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato Bold Oblique">edspective</tspan></text>
   </g>
