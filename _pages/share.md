@@ -38,11 +38,11 @@ To prepare for your submission, you will need:
 
 ## Writing Process
 
-#### Prompt and Focus
+#### What We Need From You
 
-How has your view of the world changed since leaving high school? Pick a single experience to write about. Some themes you may want to consider include family, religion, race, career/research, mental health/disabilities, romance/sexual/gender identity, leadership/activities/volunteering/sports. We want to emphasize nontraditional paths and possibilities, for instance taking a gap year or attending art school or whatever you consider different from the norm.
+How has your view of the world changed since leaving high school? Pick a single experience to write about. Some themes you may want to consider include family, religion, race, career / research, mental health / disabilities, romance / sexual / gender identity, leadership / activities / volunteering / sports. We want to emphasize nontraditional paths and possibilities, for instance taking a gap year or attending art school or whatever you consider different from the norm. Visit our <a href="/about" target="_blank">about page</a> to learn more about our angle.
 
- We are deliberately vague about any specific prompt. We believe that whatever you find most interesting and pressing to share will help outline the contours of the college experience for readers. If you don't find this section helpful, but you still want to contribute, please feel free to write about whatever you like and share it with us. Also, you may write more than 5 pages and submit multiple narratives.
+We are deliberately vague about any specific prompt. We believe that whatever you find most interesting and pressing to share will help outline the contours of the college experience for readers. If you don't find this section helpful, but you still want to contribute, please feel free to write about whatever you like and share it with us. Also, you may write more than 5 pages and submit multiple narratives.
 
 #### Suggested Steps and Timeline
 
