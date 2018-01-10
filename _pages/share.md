@@ -44,7 +44,7 @@ How has your view of the world changed since leaving high school? Pick a single 
 
 We are deliberately vague about any specific prompt. We believe that whatever you find most interesting and pressing to share will help outline the contours of the college experience for readers. If you don't find this section helpful, but you still want to contribute, please feel free to write about whatever you like and share it with us. Also, you may write more than 5 pages and submit multiple narratives.
 
-#### Suggested Steps and Timeline
+#### Timeline Steps (submit by Feb 15)
 
 1. MAKE A <a href="drive.google.com" target="_blank">GOOGLE DRIVE</a> FOLDER. Name it "Shape of College Submission" or whatever you want. Put all your submission materials here. Drive will allow you to generate links to your PDFs, and it will auto-save so you never lose your hard work on accident. (Day 1 &ndash; 2 minutes)
 
