@@ -14,10 +14,10 @@ Why should you share your story with us? Great question. We believe that there i
 
 ## Book Format
 
-The _Shape of College_ is a collection of student profiles. We are going for a vibe similar to <a href="https://www.portraitsofresilience.com/" target="_blank">Portraits of Reslience</a> or <a href="http://www.humansofnewyork.com/" target="_blank">Humans of New York</a>. Each profile will include three sections:
+The _Shape of College_ is a collection of student profiles. Shapes are defined by the interaction of positive and negative space...what's present in proportion to what's missing. We are going for a vibe similar to <a href="https://www.portraitsofresilience.com/" target="_blank">Portraits of Reslience</a> or <a href="http://www.humansofnewyork.com/" target="_blank">Humans of New York</a>. Each profile will include three sections:
 1. What we show the world. A headshot accompanied by a brief biographical blurb.
 2. What we show admissions. Your favorite sample college application accompanied by a list of admissions outcomes.
-3. What we show no one. A 3-5 page autobiographical snippet about how your view of the world has changed since leaving high school.
+3. What we show no one. A 3-5 page autobiographical snippet about how your view of the world has changed since leaving high school or something that the application failed to capture.
 
 ## Submission Process
 
