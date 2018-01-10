@@ -9,10 +9,15 @@
     <meta name="description" content= {{ site.data.global.description }}>
     <meta content="Edspective" name="author">
 
-    <!-- Analytics -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112247274-1"></script>
     <script>
-      //TODO
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-112247274-1');
     </script>
+
 
     <!-- Open Graph Protocol (Social Media) -->
     <meta property="og:locale" content="en_US" />

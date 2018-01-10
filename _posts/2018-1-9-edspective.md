@@ -8,7 +8,7 @@ date: 2018-1-9 15:45:00
 How do you view the world differently than your high school self?
 What brought about this new perspective?
 
-Every year, more than 3 million students graduate high school in the U.S. The majority of these students attend college, and many more come internationally. But very few of them are truly ready.
+Every year, more than 3 million students graduate high school in the U.S. The majority of these students attend college, and many more come internationally. But very few of them are truly ready for it.
 
 One problem is our culture, translated into the education system. We ask young children to think of their dream jobs: doctor, astronaut, president, movie star. Then we ask high school students a narrower question: to identify their dream schools. College becomes an endpoint, a goal in itself. It becomes the riverbank on the far side of the water, rather than a stepping stone to help get across. We lose sight of the larger picture.
 

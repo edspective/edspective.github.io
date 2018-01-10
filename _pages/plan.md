@@ -5,7 +5,7 @@ date: 2018-1-9 18:08:00
 permalink: /plan/
 ---
 
-According to a great _Wait But Why_ <a href="https://waitbutwhy.com/2017/04/neuralink.html#part4" target="_blank">article</a>, the "Elon Musk Company Formula" looks like this
+According to a great <a href="https://waitbutwhy.com/2017/04/neuralink.html#part4" target="_blank">article</a> by Tim Urban, the "Elon Musk Company Formula" looks like this
 
 <img src="/img/elon-company-formula.png" class="article-img"/>
 
