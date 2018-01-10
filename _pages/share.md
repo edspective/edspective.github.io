@@ -4,11 +4,13 @@ title: Share Your Story
 permalink: /share/
 ---
 
-Everything about this movement comes from the heart, but we understand that prioritizing volunteer work is challenging. We are driving a fast deadline&mdash;we want the first copies of _The Shape of College_ to be printed and sold by the beginning of May, just in time for graduation. We are offering a gift of up to $250 for timely submissions (see Selection Process) and up to $25 for each <a href="/refer" target="_blank">referral</a>. 
+Everything about this movement comes from the heart, but we understand that prioritizing volunteer work is challenging. We are driving a fast deadline&mdash;we want the first copies of _The Shape of College_ to be printed and sold by the beginning of May, just in time for graduation. We are offering a gift of up to $250 for timely submissions and up to $25 for each <a href="/refer" target="_blank">referral</a> (to be distributed later in the year depending on sales, see Selection Process).
 
 ***Initial submissions are due by Thursday Feb 15, 2018.***
 
-Our target is to publish at least 100 stories, which means we want to receive a lot of submissions. Even if you have not attended college, we will gladly take your submission.
+Our target is to publish at least 100 stories, which means we want to receive a lot of submissions. Even if you have not attended college, taking a couple gap years or other nontraditional route, we will gladly take your submission.
+
+Why should you share your story with us? Great question. We aren't quite sure how to word it yet, but we believe that there is some gap between the typical high school student's perception of college and the more holistic framing that we learn as adults. We don't think that anything out there right now adequately addresses this yet, so we are building <a href="/about" target="_blank">a shared vision and a butt-kicking team</a> to take action.
 
 ## Book Format
 
@@ -38,17 +40,9 @@ To prepare for your submission, you will need:
 
 #### Prompt and Focus
 
- Pick a single experience to write about. Some themes you may want to consider include family, religion, race, career/research, mental health/disabilities, romance/sexual/gender identity, leadership/activities/volunteering/sports. We want to emphasize nontraditional paths and possibilities, for instance taking a gap year or attending art school or whatever you consider different from the norm.
+How has your view of the world changed since leaving high school? Pick a single experience to write about. Some themes you may want to consider include family, religion, race, career/research, mental health/disabilities, romance/sexual/gender identity, leadership/activities/volunteering/sports. We want to emphasize nontraditional paths and possibilities, for instance taking a gap year or attending art school or whatever you consider different from the norm.
 
  We are deliberately vague about any specific prompt. We believe that whatever you find most interesting and pressing to share will help outline the contours of the college experience for readers. If you don't find this section helpful, but you still want to contribute, please feel free to write about whatever you like and share it with us. Also, you may write more than 5 pages and submit multiple narratives.
-
-#### Tips and Tricks
-
-- Keep in mind that showing the reader a situation and allowing her to draw her own conclusions is much more powerful than telling her what to think.
-- If you are not feeling productive, take a break, walk around, clear your mind. Only writing when you feel motivated will save you time. We estimate that the whole process should take no longer than 6-7 dedicated hours over the course of two weeks.
-- Break up your writing efforts into hour-long sprints over a few days. This will allow your brain to mull over various possibilities while you go about your daily life, and things will eventually click, maybe even while you are sleeping or showering!
-- Don't worry about trying to fit too much into your 3-5 page narrative. The best stories have a clear focus. In the future, we hope to offer you more opportunities to share your stories!
-- Tell someone right away if you decide to create a submission. Maybe this person can help give you feedback on your writing. Ask them to check in on you every couple days to keep you accountable.
 
 #### Suggested Steps and Timeline
 
@@ -71,6 +65,15 @@ To prepare for your submission, you will need:
 9. FINAL DRAFT. If you wish, create a new doc and copy paste the most recent version of your draft. Format everything so it's nice and readable. Give your story a title if you like. Click "File" then "Download as" and select "PDF Document." Read your final draft with fresh eyes and ask, does this really say what I want? Revise one final time. (Day 12 &ndash; 45 minutes)
 
 10. SUBMIT. Fill out the <a href="/submit" target="_blank">submission form</a> and you are done! (Day 13 &ndash; 15 minutes)
+
+#### Tips and Tricks
+
+- Keep in mind that showing the reader a situation and allowing her to draw her own conclusions is much more powerful than telling her what to think.
+- If you are not feeling productive, take a break, walk around, clear your mind. Only writing when you feel motivated will save you time. We estimate that the whole process should take no longer than 6-7 dedicated hours over the course of two weeks.
+- Break up your writing efforts into hour-long sprints over a few days. This will allow your brain to mull over various possibilities while you go about your daily life, and things will eventually click, maybe even while you are sleeping or showering!
+- Don't worry about trying to fit too much into your 3-5 page narrative. The best stories have a clear focus. In the future, we hope to offer you more opportunities to share your stories!
+- Tell someone right away if you decide to create a submission. Maybe this person can help give you feedback on your writing. Ask them to check in on you every couple days to keep you accountable.
+
 
 ## Selection Process and Referrals
 
