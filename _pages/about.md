@@ -6,7 +6,7 @@ permalink: /about/
 
 ## What is Edspective?
 
-To be perfectly honest, we don't quite know yet. But we have a semblance of a <a href="/plan" target="_blank">plan</a> and a burning will to help the world's education systems achieve their full potential. For now, let's call it a movement to lend a new perspective on college and admissions in the U.S., with the hope that this "edspective" will trickle down into feeder secondary and primary education systems.
+To be perfectly honest, we don't quite know yet. But we have a semblance of a <a href="/plan" target="_blank">plan</a> and a burning will to help students and the world's education systems achieve their full potential. For now, let's call it a movement to lend a new perspective on college and admissions in the U.S., with the hope that this "edspective" will trickle down into feeder secondary and primary education systems.
 
 ## Who are we?
 
@@ -18,4 +18,4 @@ Nina and Andy met as 2014 <a href="https://en.wikipedia.org/wiki/Presidential_Sc
 
 ## Want to join us?
 
-Movements don't grow on their own! We know from experience that it requires hard work. If you are interested in joining the team, please <a href="/feedback" target="_blank">leave us a note</a>!
+Movements don't grow on their own! We know from experience that it requires hard work, and we would love help. If you are interested in joining the team, please <a href="/feedback" target="_blank">leave us a note</a>!
