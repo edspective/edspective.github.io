@@ -4,13 +4,13 @@ title: Share Your Story
 permalink: /share/
 ---
 
+Can you speak for five minutes about how your view of the world has changed since leaving high school? Our target is to publish at least 100 such stories, which means we want to receive a lot of submissions, including yours.
+
 Everything about this movement comes from the heart, but we understand that prioritizing volunteer work is challenging. We are driving a fast deadline&mdash;we want the first copies of _The Shape of College_ to be printed and sold by the beginning of May, just in time for graduation. We are offering a gift of up to $250 for timely submissions and up to $25 for each <a href="/refer" target="_blank">referral</a> (to be distributed later in the year depending on sales, see Selection Process).
 
 ***Initial submissions are due by Thursday Feb 15, 2018.***
 
-Our target is to publish at least 100 stories, which means we want to receive a lot of submissions. Even if you have not attended college, taking a couple gap years or other nontraditional route, we will gladly take your submission.
-
-Why should you share your story with us? Great question. We aren't quite sure how to word it yet, but we believe that there is some gap between the typical high school student's perception of college and the more holistic framing that we learn as adults. We don't think that anything out there right now adequately addresses this yet, so we are building <a href="/about" target="_blank">a shared vision and a butt-kicking team</a> to take action.
+Why should you share your story with us? Great question. We aren't quite sure how to word it yet, but we believe that there is some gap between the typical high school student's perception of college and the more holistic framing that we learn as adults. We don't think that anything out there adequately addresses this yet, so we are building <a href="/about" target="_blank">a shared vision and a butt-kicking team</a> to take action.
 
 ## Book Format
 
