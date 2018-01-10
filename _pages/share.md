@@ -29,7 +29,7 @@ The introduction to each profile will be a black and white headshot accompanied 
 
 We estimate that you will require 5-7 hours over the course of 2 weeks. Give yourself an extra week of slack before the deadline, though!
 
-You submission will include sections 2 and 3 from above, and we will contact you to obtain section 1 after reviewing your submission.
+Your submission will include sections 2 and 3 from above, and we will contact you to obtain section 1 after reviewing your submission.
 
 To prepare for your submission, you will need:
 - a link to your favorite college application (as a PDF).
