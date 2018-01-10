@@ -15,3 +15,7 @@ Nina Srivastava is a senior at Harvard, where she actively serves on the <a href
 Andy Trattner is a recent graduate of MIT, where he studied mathematics with computer science (18c) and dabbled in creative writing. He cofounded <a href="https://lean0n.me/" target="_blank">Lean On Me</a>, a peer support movement with chapters on multiple college campuses, and he has work experience in aerospace engineering, teaching, social media, and venture capital. He plays chess, reads too much self-help, enjoys meeting new people, and appreciates efficiency.
 
 Nina and Andy met as 2014 <a href="https://en.wikipedia.org/wiki/Presidential_Scholars_Program" target="_blank">U.S. Presidential Scholars</a> and went on to help the Department of Education run the program as Executive Advisors in 2017. During that time, they developed a deep respect and admiration for each other, and they decided to work together as much as possible in the future. They currently sit on the board of the alumni association, and they are very excited to have this opportunity to leverage their experience and connections to help others.
+
+## Want to join us?
+
+Movements don't grow on their own! We know from experience that it requires hard work. If you are interested in joining the team, please <a href="/feedback" target="_blank">leave us a note</a>!
