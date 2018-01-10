@@ -68,10 +68,10 @@ We are deliberately vague about any specific prompt. We believe that whatever yo
 
 #### Tips and Tricks
 
+- Don't worry about trying to fit too much into your 3-5 page narrative. The best stories have a clear focus. In the future, we hope to offer you more opportunities to share your stories!
 - Keep in mind that showing the reader a situation and allowing her to draw her own conclusions is much more powerful than telling her what to think.
 - If you are not feeling productive, take a break, walk around, clear your mind. Only writing when you feel motivated will save you time. We estimate that the whole process should take no longer than 6-7 dedicated hours over the course of two weeks.
 - Break up your writing efforts into hour-long sprints over a few days. This will allow your brain to mull over various possibilities while you go about your daily life, and things will eventually click, maybe even while you are sleeping or showering!
-- Don't worry about trying to fit too much into your 3-5 page narrative. The best stories have a clear focus. In the future, we hope to offer you more opportunities to share your stories!
 - Tell someone right away if you decide to create a submission. Maybe this person can help give you feedback on your writing. Ask them to check in on you every couple days to keep you accountable.
 
 
@@ -87,7 +87,7 @@ Of course, we will do our best do get all contributors a copy of the book, thoug
 
 If we are short of our target sales, we still want to gift contributors and referrals proportionally with 20% of profits. If we exceed our target sales, we will only gift up to the aforementioned amounts. All further profits, including those after the first two months of sales, will go in part toward living expenses of team members and mostly toward fueling future initiatives, possibly including a series of further books (relationships, job search, who knows)! For a more complete preview of what is to come, see our <a href="/plan" target="_blank">plan</a>.
 
-Please share your thoughts with us on these topics via the comments section at the bottom of the page.
+Please share your thoughts with us on these topics via the comments section at the bottom of the page. We hope we are being transparent and clear that we cannot actually guarantee money at this time, but we fully intend to go through with this, make a big splash, and share many small pieces of a big pie.
 
 ## Relationship Agreement
 
