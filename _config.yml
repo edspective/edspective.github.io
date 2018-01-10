@@ -28,7 +28,7 @@ whitelist: []
 plugins:      [jekyll-paginate]
 
 # Conversion
-markdown:    syntax_highlighter_opts
+markdown: kramdown
 highlighter: rouge
 lsi:         false
 excerpt_separator: "\n\n"
