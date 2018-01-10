@@ -4,7 +4,7 @@ title: Share Your Story
 permalink: /share/
 ---
 
-Everything about this movement comes from the heart, but we understand that prioritizing volunteer work is challenging. We are driving a fast deadline&mdash;we want the first copies of _The Shape of College_ to be printed and sold by the beginning of May, just in time for graduation. We are offering a gift of up to $250 for timely submissions and up to $25 for each <a href="/refer" target="_blank">referral</a>. (see Selection Process)
+Everything about this movement comes from the heart, but we understand that prioritizing volunteer work is challenging. We are driving a fast deadline&mdash;we want the first copies of _The Shape of College_ to be printed and sold by the beginning of May, just in time for graduation. We are offering a gift of up to $250 for timely submissions (see Selection Process) and up to $25 for each <a href="/refer" target="_blank">referral</a>. 
 
 ***Initial submissions are due by Thursday Feb 15, 2018.***
 
