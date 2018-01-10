@@ -12,12 +12,18 @@ Everything about this movement comes from the heart, but we understand that prio
 
 Why should you share your story with us? Great question. We believe that there is a gap between the typical high school student's perception of college and the more holistic framing that we learn as adults. We don't think that anything out there adequately addresses this yet, so we are building <a href="/about" target="_blank">a shared vision and a butt-kicking team</a> to take action. We are convinced that your story can help students bridge the perspective gap.
 
+
 ## Book Format
 
-The _Shape of College_ is a collection of student profiles. We want these stories to outline the interaction between positive and negative space&mdash;what's present in proportion to what's missing in your perspective on college, and more broadly, life. We are going for a vibe similar to <a href="https://www.portraitsofresilience.com/" target="_blank">Portraits of Reslience</a> or <a href="http://www.humansofnewyork.com/" target="_blank">Humans of New York</a>. Each profile will include three sections:
-1. What we show the world. A headshot accompanied by a brief biographical blurb.
-2. What we show admissions. Your favorite sample college application accompanied by a list of admissions outcomes.
-3. What we show no one. A 3-5 page autobiographical snippet about how your view of the world has changed since leaving high school or something that the application failed to capture.
+The _Shape of College_ is a collection of student profiles. We want these stories to outline the interaction between positive and negative space&mdash;what's present in proportion to what's missing in your perspective on college, and more broadly, life? We are going for a vibe similar to <a href="https://www.portraitsofresilience.com/" target="_blank">Portraits of Reslience</a> or <a href="http://www.humansofnewyork.com/" target="_blank">Humans of New York</a>. 
+
+Each profile will include three sections:
+1. What we show the world. 
+2. What we show admissions.
+3. What we show no one.
+
+The introduction to each profile will be a black and white headshot accompanied by a brief biographical blurb. Following this will be a sample college application of the profilee's choice. The last piece is a 3-5 page autobiographical narrative about something the application did not capture or how the subject's view of the world has changed since leaving high school. The idea is to move _beyond_.
+
 
 ## Submission Process
 
