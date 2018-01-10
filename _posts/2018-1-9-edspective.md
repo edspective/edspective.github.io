@@ -5,7 +5,7 @@ subtitle: 'A new perspective on education'
 date: 2018-1-9 15:45:00
 ---
 
-How do you view the world differently than your high school self?
+How do you view the world differently from your high school self?
 What brought about this new perspective?
 
 Every year, more than 3 million students graduate high school in the U.S. The majority of these students attend college, and many more come internationally. But very few of them are truly ready for it.
