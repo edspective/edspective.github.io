@@ -34,7 +34,7 @@ Coordinators organize the team, providing focus and accountability. They are ult
 - help out where needed with all tasks
 
 
-## Participants
+## Participant
 Participants share their stories through Edspective and possibly refer others. They provide the world valuable perspectives on education and life.
 - one-time commitment (0-10 hours total)
 - recognized with content or anonymous
