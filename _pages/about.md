@@ -6,7 +6,7 @@ permalink: /about/
 
 ## What is Edspective?
 
-To be perfectly honest, we don't quite know yet. But we have a semblance of a <a href="/plan" target="_blank">plan</a> and a burning will to help students and the world's education systems achieve their full potential. For now, let's call it a movement to lend a new perspective on college and admissions in the U.S., with the hope that this "edspective" will trickle down into feeder secondary and primary education systems.
+To be perfectly honest, we don't quite know yet. But we have a semblance of a <a href="/plan" target="_blank">plan</a> and a burning will to help students and the world's education systems achieve their full potential. For now, let's call it a movement to lend a healthy new perspective on college and admissions in the U.S., with the hope that this "edspective" will trickle down into feeder secondary and primary education systems.
 
 ## Who are we?
 

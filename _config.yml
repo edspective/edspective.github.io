@@ -7,7 +7,7 @@ data_dir: ./_data
 
 #collections
 collections:
-  - clippings
+  - updates
 
 # Handling Reading
 safe:         false

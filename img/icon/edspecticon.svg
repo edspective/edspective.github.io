@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="edspecticon.svg"
-   inkscape:export-filename="C:\edspective\edspective.github.io\img\icon\edspecticon-transparent.png"
+   inkscape:export-filename="C:\edspective\edspective.github.io\img\icon\edspecticon-solid.png"
    inkscape:export-xdpi="50.009998"
    inkscape:export-ydpi="50.009998">
   <defs
@@ -25,7 +25,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="519.63852"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
