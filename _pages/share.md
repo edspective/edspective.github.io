@@ -15,10 +15,10 @@ Why should you share your story with us? Great question. We believe that there i
 
 ## Book Format
 
-The _Shape of College_ is a collection of student profiles. We want these stories to outline the interaction between positive and negative space&mdash;what's present in proportion to what's missing in your perspective on college, and more broadly, life? We are going for a vibe similar to <a href="https://www.portraitsofresilience.com/" target="_blank">Portraits of Reslience</a> or <a href="http://www.humansofnewyork.com/" target="_blank">Humans of New York</a>. 
+The _Shape of College_ is a collection of student profiles. We want these stories to outline the interaction between positive and negative space&mdash;what's present in proportion to what's missing in your perspective on college, and more broadly, life? We are going for a vibe similar to <a href="https://www.portraitsofresilience.com/" target="_blank">Portraits of Reslience</a> or <a href="http://www.humansofnewyork.com/" target="_blank">Humans of New York</a>.
 
 Each profile will include three sections:
-1. What we show the world. 
+1. What we show the world.
 2. What we show admissions.
 3. What we show no one.
 
@@ -52,7 +52,7 @@ How has your view of the world changed since leaving high school? Pick a single 
 
 We are deliberately vague about any specific prompt. We believe that whatever you find most interesting and pressing to share will help outline the contours of the college experience for readers. If you don't find this section helpful, but you still want to contribute, please feel free to write about whatever you like and share it with us. Also, you may write more than 5 pages and submit multiple narratives.
 
-#### Timeline Steps (submit by Feb 15)
+#### Suggested Steps (submit by Feb 15)
 
 1. MAKE A <a href="drive.google.com" target="_blank">GOOGLE DRIVE</a> FOLDER. Name it "Shape of College Submission" or whatever you want. Put all your submission materials here. Drive will allow you to generate links to your PDFs, and it will auto-save so you never lose your hard work on accident. (Day 1 &ndash; 2 minutes)
 
