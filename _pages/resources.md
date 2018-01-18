@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-<a href="https://edspective.slack.com" target="_blank">slack</a>
+
 
 <a href="https://docs.google.com/spreadsheets/d/17QfQhhmZfNn6ZVW7bliEsln3DPtrr5EKenpMT7dUlJE/edit?usp=sharing" target="_blank">team directory</a>
 
@@ -12,4 +12,10 @@ permalink: /resources/
 
 <a href="https://docs.google.com/document/d/1hPGGrZDawShZuOTwP0SA3kj6rQ16Zra4E_2BoUzUSsE/edit?usp=sharing" target="_blank">sample solicitations</a>
 
-<a href="https://drive.google.com/open?id=1b90hdY-fTV30PWr96iehHTjl1TS5_zKzTCcGiVeT9yg" target="_blank">relevant projects list</a>
+<a href="https://drive.google.com/open?id=1b90hdY-fTV30PWr96iehHTjl1TS5_zKzTCcGiVeT9yg" target="_blank">I found a relevant project and should probably make a note</a>
+
+<br>
+
+<a href="https://edspective.slack.com" target="_blank">slack</a>
+
+<a href="https://github.com/edspective/" target="_blank">github</a>
