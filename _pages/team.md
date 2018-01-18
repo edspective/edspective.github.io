@@ -6,7 +6,7 @@ permalink: /team/
 
 <a href="https://goo.gl/forms/Rn0q2p03NvPigT1T2" target="_blank">Check-in</a>
 
-[Resources](/resources)
+[Resources and Helpful Links](/resources)
 
 [Roles](/roles)
 
