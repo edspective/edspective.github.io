@@ -3,6 +3,24 @@ layout: team-pages-no-title
 permalink: /updates/
 ---
 
+# 1/19/18
+
+### Last Week's Progress
+
+- purchased domain theshapeofcollege.com, reserved usernames and handles (Manuj)
+- 20-member ambassador team set up, migrated to Slack
+- WH lawyer: learned about Launch program, discussed copyright and incorporation
+- reformulated /share page and Relationship Agreement
+- Ru is a badass and put us over 130 personal outreach solicitations
+- began market research planning (go visit high schools and ask questions of stakeholders)
+- ambassador feedback: feels loose, maybe have a meeting
+
+### Next Steps
+
+1. create tentative timeline of project milestones and articulate sub-goals
+2. schedule team meeting
+3. finalize market research questions and interview logistics
+
 # 1/13/18
 
 ### Last Week's Progress
