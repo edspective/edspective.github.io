@@ -1,0 +1,464 @@
+html *
+{
+   font-family: 'Lato', sans-serif !important;
+   text-transform: none !important;
+}
+image-rendering: -moz-crisp-edges;         /* Firefox */
+image-rendering:   -o-crisp-edges;         /* Opera */
+image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
+image-rendering: crisp-edges;
+-ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
+/* COLORS */
+  .faq-answer{
+    color:#ffaaaa;
+  }
+  .white {
+    color: white;
+  }
+  .white-bg {
+    background-color: white;
+    color: #5FD3BC;
+  }
+  .guide-description{
+    color:#FFFFFF;
+  }
+  .white-bg .guide-description ,
+  .white-bg .faq-answer {
+    color: #007C64;
+  }
+  .white-bg a:visited,
+  .white-bg a:link {
+    color: #5FD3BC;
+    text-decoration: underline;
+  }
+  .white-bg a:hover,
+  .white-bg a:active {
+    color: #CC0000 !important;
+  }
+  .light {
+    color: #5FD3BC;
+  }
+  .light-bg{
+    background-color: #5FD3BC;
+    color: white;
+  }
+  .light-bg a {
+    color: white;
+    text-decoration: underline;
+  }
+  .light-bg a:visited,
+  .light-bg a:link {
+    color: white;
+    text-decoration: underline;
+  }
+  .light-bg a:hover,
+  .light-bg a:active {
+    color: #007C64 !important;
+  }
+  .dark{
+    color: #CC0000;
+  }
+
+  /* http://stackoverflow.com/a/23935891 */
+  .pickgradient{
+    position:relative;
+    display:inline-block;
+  }
+  .pickgradient:after {
+    content:'';
+    position:absolute;
+    left:0; top:0;
+    width:100%; height:100%;
+    display:inline-block;
+    background: -moz-linear-gradient(top, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0) 100%); /* IE10+ */
+    background: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#a5000000',GradientType=0 ); /* IE6-9 */
+  }
+
+/* Buttons */
+  .donationbutton {
+    border: 1px solid #FFFFFF;
+    color: #FFAAAA;
+    background-color: transparent;
+    text-decoration: none;
+    border-radius: 0;
+    font-size: 24px;
+    padding-top: 40px;
+    outline: none;
+    max-width:50%;
+    max-height:50%;
+  }
+
+
+  a.btn.btn-default {
+    border: 1px solid #FFAAAA;
+    color: #FFAAAA;
+    background-color: transparent;
+    text-decoration: none;
+    border-radius: 0;
+    font-size: 24px;
+  }
+
+  a.btnonlight{
+    border: 1px solid #5FD3BC !important;
+    color: #5FD3BC !important;
+  }
+
+  a.btnonlight:hover{
+    border: 1px solid #007C64 !important;
+    color: #007C64 !important;
+  }
+  a.btnondark{
+    border: 1px solid #FFFFFF !important;
+    color: #FFFFFF !important;
+  }
+  a.btnondark:hover{
+    border: 1px solid #007C64 !important;
+    color: #00FFCD !important;
+  }
+
+  a.btn.btn-default:hover {
+    border: 1px solid #007C64 !important;
+  }
+
+  a.landing-tel {
+    text-decoration: none !important;
+  }
+
+/* Logo */
+  img.leanonme-logo-nav {
+      height: 30px;
+      margin-top: -7px;
+  }
+
+  img.landing-logo {
+    padding-top: 5px;
+    width: 550px;
+  }
+
+/* Navbar */
+  nav.navbar.navbar-custom.top-nav-collapse {
+    background-color: #5FD3BC;
+
+  }
+
+  .navbar-nav>li>a {
+    padding-top: 21px !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    font-size: 13px;
+  }
+
+  nav.navbar.navbar-custom {
+    background-color: transparent;
+  }
+
+  nav.navbar-custom.top-nav-collapse  div.container,
+  nav.navbar-custom.top-nav-collapse  div.container {
+    background-color: transparent;
+  }
+
+  .navbar-icon{
+    font-size: 24px;
+  }
+/* Sections */
+
+  section.container {
+    min-height: 100%;
+    margin: 0;
+    width: 100% !important;
+    padding-top: 10%;
+    padding-bottom: 16%;
+    padding-left: 0px;  /*Overriding Bootstrap*/
+    padding-right: 0px; /*Overriding Bootstrap*/
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+
+  span.title-text {
+    font-size: 30px;
+    display: block;
+    padding-bottom: 20px;
+    /*font-family: 'Bebas Neue' !important;*/
+  }
+
+/* Intro */
+
+  header {
+    text-align: center;
+    min-height: 100%;
+    margin: 0;
+    width: 100% !important;
+    padding-top: 10%;
+    padding-bottom: 16%;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .intro-phone{
+    font-size: 64px;
+  }
+
+/* team Section*/
+  .team {
+      display: table;
+      width: 100%;
+      height: auto;
+      padding: 100px 0;
+      text-align: center;
+      color: #000;
+      /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
+  }
+
+  .team .team-body {
+      display: table-cell;
+      vertical-align: middle;
+      padding-right: 80px;
+      padding-left: 80px;
+  }
+
+  .team .team-body .team-heading {
+      font-size: 24px;
+      color:white;
+  }
+
+  .team .team-body .team-text {
+      font-size: 20px;
+  }
+
+  @media(min-width:768px) {
+      .team {
+          height: 100%;
+          padding: 100px 0;
+      }
+
+      .team .team-body .team-text {
+          font-size: 26px;
+      }
+  }
+
+  div.team-member {
+      padding-top: 50px;
+  }
+
+  img.team-pic {
+      height: 180px;
+  }
+
+  .light-bg span.person-name,
+  .light-bg a.person-name{
+    color:white;
+  }
+
+  .white-bg span.person-name,
+  .white-bg a.person-name{
+    color: #CC0000;
+  }
+
+  .light-bg span.person-title,
+  .light-bg a.person-title{
+    color:white;
+  }
+
+  .white-bg span.person-title,
+  .white-bg a.person-title{
+    color: #5FD3BC;
+  }
+
+  span.person-name {
+      font-size: 20px;
+  }
+
+  a.person-name {
+      font-size: 20px;
+  }
+
+  span.person-name {
+      font-size: 20px;
+  }
+
+
+
+  span.person-title {
+      font-size: 14px;
+      font-style: italic;
+      color:white;
+  }
+
+  div.person-blurb {
+      font-size: 14px;
+      text-align: center;
+      visibility: hidden;
+      opacity: 0;
+      top: 15px;
+      bottom: -15px;
+      left: 0px;
+      right: 0px;
+      padding: 30px 20px 0 20px;
+      background-color: #CC0000;
+      position: absolute;
+      border-radius: 30px;
+      -webkit-transition: all 0.4s ease-in-out;
+      -moz-transition: all 0.4s ease-in-out;
+      -o-transition: all 0.4s ease-in-out;
+      transition: all 0.4s ease-in-out;
+  }
+
+  div.team-member:hover div.person-blurb{
+      visibility: visible;
+      opacity: 0.9;
+      color: white;
+      -webkit-transition: all 0.4s ease-in-out;
+      -moz-transition: all 0.4s ease-in-out;
+      -o-transition: all 0.4s ease-in-out;
+      transition: all 0.4s ease-in-out;
+  }
+
+/* Chapters Section */
+
+  .school-img:hover,
+  .chapter-description:hover{
+    cursor: pointer;
+  }
+
+  .chapter-description{
+    position: absolute;
+    pointer-events: none;
+    top: 15px;
+    font-size: 3em;
+    font-weight: 500;
+    text-align: center;
+    width: 100%;
+    /*font-family: 'Bebas Neue' !important;*/
+    /*padding-left: 0.5em;
+    padding-right: 0.5em;*/
+    /*background-color: #5FD3BC;*/
+    /*opacity: 0.9;*/
+    border-radius: 5pt;
+  }
+
+  a.chapter-link {
+    color: white !important;
+  }
+  a.chapter-link:hover {
+    color: white !important;
+  }
+  .chapter{
+    width: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+  }
+
+  .pickgradient:hover{
+    outline:groove;
+    color: #d10022;
+  }
+
+  .supporters-span-title{
+    width: 100%;
+    text-align: center;
+  }
+
+/* USER'S GUIDE & FAQ Sections */
+  /*next few lines are from https://www.bootply.com/JAugustoGuimaraes/09AXghUDYG"*/
+        /* CSS used here will be applied after bootstrap.css */
+        .jumbotron{width:80%;margin-left:10%;max-width: 1200px;margin-left:auto; margin-right:auto;}
+        .img-center {margin:0 auto;}
+        .dl-horizontal dt{white-space: normal;}
+        .omacenter{margin-left:auto; margin-right:auto;}
+        .titre{color:#007C64;}
+        .entete{background-color: #5FD3BC;width:80%;margin-left:10%;}
+
+  section span.guide-header-num {
+      font-size: 24px;
+      font-weight: bold;
+      color:#007C64
+  }
+
+  .white-bg .guide-header{
+    color:#007C64;
+  }
+
+  .light-bg .guide-header{
+    color:white;
+  }
+
+  section span.guide-header {
+        display: block !important;
+    margin: auto !important;
+
+    text-align: center !important;
+      font-size: 18px;
+      font-weight: bold;
+      color:#ffffff;
+  }
+  section span.faq-question {
+      font-size: 18px;
+      font-weight: bold;
+      color:#007C64;
+  }
+
+  .guide-header-pic{
+    display: block !important;
+    margin: auto !important;
+
+    text-align: center !important;
+    display: inline-block;
+    margin:0px;
+  }
+  .circled {
+    display: block !important;
+    margin: auto !important;
+
+    text-align: center !important;
+    display: inline-block;
+    margin:0px;
+    margin-right: 0px;
+    font-size: 25px;
+    display: block;
+    height: 46px;
+    width: 46px;
+    line-height: 46px;
+
+    -moz-border-radius: 50%; /* or 50% */
+    border-radius: 50%; /* or 50% */
+
+    background-color: white;
+    color: white;
+    text-align: center;
+  }
+
+  div.faq-item,
+  div.guide-item {
+    padding-top: 50px;
+    text-align: left;
+  }
+
+/* Terms */
+  .terms-body a {
+    color: black;
+  }
+
+  .terms-body nav.navbar {
+    background-color: #CC0000;
+  }
+  span.steptitle {
+    color:#FFFFFF !important;
+    font-size: 18px;
+    font-weight: bold;
+  }

@@ -1,52 +1,61 @@
 <!doctype html prefix="og: http://ogp.me/ns#">
+<html lang="en">
 <head>
-    <!-- Meta -->
-    <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.global.title }}{% endif %}</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-    <meta content="yes" name="apple-mobile-web-app-capable" />
-    <meta name="description" content= "A movement to help students and education systems realize their full potential. To start, we are crowd-writing The Shape of College, a book containing student perspectives on admissions and life after high school. We would love for you to join us." />
-    <meta content="Edspective" name="author" />
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.global.title }}{% endif %}</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta content="Edspective" name="author" />
+  <meta content="Edspective offers academic coaching resources and services. We build success and intelligence with a healthy perspective on education." name="description" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <meta content="yes" name="apple-mobile-web-app-capable" />
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112247274-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-112247274-1');
-    </script>
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/img/icon/edspecticon-solid.png">
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112247274-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-112247274-1');
+  </script>
 
-    <!-- Open Graph Protocol (Social Media) -->
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:site_name" content="Edspective" />
-    <meta property="og:title" content={% if page.title %}{{ page.title }}{% else %}{{ site.data.global.title }}{% endif %} />
-    <meta property="og:description" content= "A movement to help students and education systems realize their full potential. To start, we are crowd-writing The Shape of College, a book containing student perspectives on admissions and life after high school. We would love for you to join us." />
-    <meta property="og:url" content="https://edspective.org" />
-    <meta property="og:image" content="https://edspective.org/img/icon/edspecticon-solid.png" />
-    <meta property="og:type" content="website" />
-    <!-- LOM example <meta content="778411022317617" property="fb:app_id"> -->
+  <!-- Open Graph Protocol (Social Media) -->
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="Edspective" />
+  <meta property="og:title" content={% if page.title %}{{ page.title }}{% else %}{{ site.data.global.title }}{% endif %} />
+  <meta property="og:description" content= "Edspective offers academic coaching resources and services. We build success and intelligence with a healthy perspective on education." />
+  <meta property="og:url" content="https://edspective.org" />
+  <meta property="og:image" content="https://edspective.org/img/icon/edspecticon-solid.png" />
+  <meta property="og:type" content="website" />
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" href="/img/icon/edspecticon-solid.png">
-    <!-- LOM example <link href="img/favicon-3.png" rel="shortcut icon" type="image/png"> -->
+  <!-- Fonts -->
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
 
-    <!-- Fonts -->
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <link href='https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-    <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
-
-    <!-- Styles -->
-    <link rel="stylesheet" href="/css/styles.css">
-    <!--[if lte IE 9]>
-    <script src="masonry.pkgd.min.js"></script>
-    <![endif]-->
-
+  <!-- Styles -->
+  <link rel="stylesheet" href="/css/styles.css">
+  <link href="/css/inthepress.css" rel="stylesheet">
+  <link href="/css/grayscale.css" rel="stylesheet">
+  <link href="/css/main.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js">
+  </script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+  </script>
+  <script src="/js/grayscale.js">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js">
+  </script>
 </head>
 <body>

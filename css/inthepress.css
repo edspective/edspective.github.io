@@ -1,0 +1,121 @@
+html{
+  margin: 0;
+  background: #0e0f11;
+  color: #ecf0f1;
+  font-family: 'Open Sans', sans-serif;
+  min-height: 100vh;
+  width: 100%;
+}
+section#in-the-press * {
+  box-sizing: border-box;
+}
+section#in-the-press h1,
+section#in-the-press p {
+  text-align: center;
+
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+}
+section#in-the-press a:link,
+section#in-the-press a:hover,
+section#in-the-press a:active,
+section#in-the-press a:visited {
+  -webkit-transition: color 150ms;
+  transition: color 150ms;
+  -webkit-backface-visibility: hidden;
+  color: #95a5a6;
+  text-decoration: none;
+}
+section#in-the-press a:hover {
+  color: #7f8c8d;
+  text-decoration: underline;
+}
+section#in-the-press{
+  width: 100%;
+}
+
+section#in-the-press .row {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-left: 0;
+  margin-right: 0;
+
+  align-items: center;
+  justify-content: center;
+}
+
+section#in-the-press .row__inner {
+  -webkit-transition: 450ms transform;
+  transition: 450ms transform;
+  -webkit-backface-visibility: hidden;
+  font-size: 0;
+  margin: 50px 0;
+
+  width: 1175px;
+}
+section#in-the-press .tile {
+  position: relative;
+  display: inline-block;
+  width: 250px;
+  height: 140.625px;
+  margin-right: 5px;
+  margin-left: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  -webkit-transition: 450ms all;
+  transition: 450ms all;
+  -webkit-transform-origin: center;
+          transform-origin: center;
+  -webkit-backface-visibility: hidden;
+}
+section#in-the-press .tile__img {
+  width: 250px;
+  height: 140.625px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+section#in-the-press .tile__details {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  font-size: 10px;
+  opacity: 0;
+  background: -webkit-linear-gradient(bottom, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0) 100%);
+  background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0) 100%);
+  -webkit-transition: 450ms opacity;
+  transition: 450ms opacity;
+  -webkit-backface-visibility: hidden;
+}
+
+section#in-the-press .tile__title {
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+}
+
+section#in-the-press .row__inner:hover .tile:hover {
+  -webkit-transform: translate3d(0,-25px,0);
+          transform: translate3d(0,-25px,0);
+  -webkit-backface-visibility: hidden;
+  opacity: 1;
+}
+
+section#in-the-press img {
+    max-width: 100%;
+    height: auto;
+}
