@@ -471,7 +471,9 @@ image-rendering: crisp-edges;
     }
     h2.landing-subtitle {
       font-size: 23px;
-      margin-top: 8px;
+      margin-top: 0px;
+      line-height: 45px;
+      margin-bottom: 0px;
     }
   }
 
@@ -482,6 +484,8 @@ image-rendering: crisp-edges;
     }
     h2.landing-subtitle {
       font-size: 18px;
-      margin-top: 3px;
+      margin-top: 0px;
+      line-height: 35px;
+      margin-bottom: 0px;
     }
   }
