@@ -1,0 +1,404 @@
+<!doctype html prefix="og: http://ogp.me/ns#">
+<html lang="en">
+<head>
+  <!-- Meta -->
+  <meta charset="utf-8">
+  <title>Edspective</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta content="Edspective" name="author" />
+  <meta content="Edspective offers academic coaching resources and services. We build success and intelligence with a healthy perspective on education." name="description" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+  <meta content="yes" name="apple-mobile-web-app-capable" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/img/icon/edspecticon-solid.png">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112247274-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-112247274-1');
+  </script>
+
+  <!-- Open Graph Protocol (Social Media) -->
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="Edspective" />
+  <meta property="og:title" content={% if page.title %}{{ page.title }}{% else %}{{ site.data.global.title }}{% endif %} />
+  <meta property="og:description" content= "Edspective offers academic coaching resources and services. We build success and intelligence with a healthy perspective on education." />
+  <meta property="og:url" content="https://edspective.org" />
+  <meta property="og:image" content="https://edspective.org/img/icon/edspecticon-solid.png" />
+  <meta property="og:type" content="website" />
+
+  <!-- Fonts -->
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic,700,700italic|Oswald:300,400,700">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet">
+
+  <!-- Styles -->
+  <link href="/css/inthepress.css" rel="stylesheet">
+  <link href="/css/grayscale.css" rel="stylesheet">
+  <link href="/css/main.css" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <link rel="stylesheet" href="/css/magnify.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js">
+  </script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js">
+  </script>
+  <!--<script src="/js/grayscale.js">
+  </script> NAVBAR JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.min.js">
+  </script>
+</head>
+<body>
+    <!--<div id="page-top"></div>-->
+    <!--<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-main-collapse" data-toggle="collapse" type="button"> <span class="navbar-icon">≡</span> <i class="fa fa-bars"></i></button> <a class="navbar-brand page-scroll" href="#page-top"><img class="leanonme-logo-nav" src="/img/edspective-fitted.svg"></a>
+            </div>
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About Us</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#how">How We Work</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#faq">Common Questions</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#resources">Resources</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>-->
+
+    <header class="light-bg">
+        <div class="body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-md-offset">
+                        <img id="little" class="landing-logo" src="/img/edspective-mag-v3.png"/>
+                        <br><br>
+                        <h2 class="landing-subtitle">Coaching, tutoring, and prep for</h2>
+                        <h2 class="landing-subtitle">high school, college admissions, and beyond.</h2>
+                        <br>
+                        <br>
+                        <h3><a class="landing-tel" href="tel:+12622047212" target="_blank">262-204-7212</a></h3>
+                        <!--
+                        <br><br>
+                        <a class="btn btn-default page-scroll btnondark" href="#how" role="button">schedule free consultation call</a>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+<!--
+
+    <section class="white-bg container content-section text-center" id="about">
+      <div class="about-body">
+          <div class="container">
+              <div class="row">
+                  <div class="col-md-12">
+                      <span class="about-span title-text">Lean On Me automatically and anonymously matches peers to create texting networks of instantaneous support across organizations. We envision a world where everybody has someone to lean on.</span><br>
+                      <br>
+                      <br>
+                      <img height="150px" src="./img/leaningperson.jpg"/>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </section>
+
+    <section class="light-bg container content-section text-center" id="how">
+      <div class="guide-body">
+          <div class="container">
+              <div class="col-md-12">
+                  <span class="guide-span title-text">How We Work</span>
+              </div>
+              <div class="row guide-row">
+                  <div class="col-md-4">
+                      <div class="guide-item">
+                          <span class="guide-header-num circled">1</span><br>
+                          <img class ="guide-header-pic" src="img/userguide/typingindicator.png"><br>
+                          <span class="guide-header">Get In Touch</span>
+                          <div class="guide-description">
+                              <br>
+                              Call us, send an email, or text. Send us an email, phone call, or text message.
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4">
+                      <div class="guide-item">
+                          <span class="guide-header-num circled">2</span><br>
+                          <img class ="guide-header-pic" src="img/userguide/handshake.png"><br>
+                          <span class="guide-header">Match With a Supporter</span>
+                          <div class="guide-description">
+                              <br>
+                                  Once a text is received, all active Supporters will be informed that a new request has come in, and within a few minutes you will be anonymously matched with one!
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4">
+                      <div class="guide-item">
+                          <span class="guide-header-num circled">3</span><br>
+                          <img class ="guide-header-pic" src="img/userguide/notification.png"><br>
+                          <span class="guide-header">Receive a Reply</span>
+                          <div class="guide-description">
+                              <br>
+                                  Typically, the expected wait time is just under 5 minutes. While the service is available at any time of day, please remember that Supporters are your peers, who lead their own busy lives and occasionally remember to sleep. As a result, the wait time for a conversation sent in at 4:30am may be slightly longer, and we thank you for understanding that!
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="row guide-row">
+                  <div class="col-md-4">
+                      <div class="guide-item">
+                          <span class="guide-header-num circled">4</span><br>
+                          <img class ="guide-header-pic" src="img/userguide/conversation2.png"><br>
+                          <span class="guide-header">Have a Conversation</span>
+                          <div class="guide-description">
+                              <br>
+                                  You can now have a conversation with the Supporter! Feel free to carry on the conversation for as long as you like. If you ever feel uncomfortable with a Supporter text “/flag” to the hotline, and we’ll match you with another! For a full list of commands, text "/help" to the hotline. Supporters will never see your slash commands.
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4">
+                      <div class="guide-item">
+                          <span style="text-align:center" class="guide-header-num circled">5</span><br>
+                          <img class ="guide-header-pic" src="img/userguide/exit.png"><br>
+                          <span class="guide-header">End the Conversation</span>
+                          <div class="guide-description">
+                              <br>
+                                  Conversations should last for as long as you would like them to, and you can end a conversation with a Supporter at any time by texting "/bye" to the hotline. If you text again you will be matched with a new Supporter and they will not see what you wrote before.
+                          </div>
+                      </div>
+                  </div>
+                  <div class="col-md-4">
+                      <div class="guide-item">
+                          <span class="guide-header-num circled">6</span><br>
+                          <img class ="guide-header-pic" src="img/userguide/star.png"><br>
+                          <span class="guide-header">Provide Feedback</span>
+                          <div class="guide-description">
+                              <br>
+                                  Once a conversation ends, you will be asked to provide feedback, helping make the service better for future users. By no means is this mandatory, but it should take ~4.20min and we would really appreciate it. Your input will have a very real effect on the future of Lean On Me, and on any changes we make to the service!
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+    </section>
+
+
+<section class="white-bg container content-section text-center" id="faq">
+    <div class="col-md-12">
+        <span class="faq-span title-text">Frequently Asked Questions</span>
+    </div>
+    <div class="faq-body">
+        <div class="container">
+            <div class="panel-group" id="accordion">
+<div class="panel panel-default">
+<div class="panel-heading">
+    <h4 class="panel-title">
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
+        <span class="faq-question">Who are the peer supporters?</span>
+    </a>
+    </h4>
+</div>
+<div id="collapseFour" class="panel-collapse collapse ">
+    <div class="panel-body">
+    <p style="color:#FF6A6A; size:15px">Supporters are volunteers who share your experiences and are excited to converse with you! They are your peers, as determined by the context of the hotline. (For example, the MIT hotline's supporters are all MIT students.) While they are not formally licensed or certified, they do go through our <a style="color:#CC0000" href="https://lean0n.me/mit/account/login">Supporter Training </a></p></div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+    <h4 class="panel-title">
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
+        <span class="faq-question">How can I be a part of Lean On Me in my community?</span>
+    </a>
+    </h4>
+</div>
+<div id="collapseFive" class="panel-collapse collapse">
+    <div class="panel-body">
+    <p style="color:#FF6A6A; size:15px">We're always looking for more people to join the team! If you're interested in applying to be a peer supporter, please go to <a style="color:#CC0000" class="page-scroll" href="#find-hotline">your chapter's website</a> for more information. If you'd like to be part of the Lean On Me organizational team or software development squad, please <a style="color:#CC0000" href="mailto:team@lean0n.me">email us</a>!</p>
+    </div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+    <h4 class="panel-title">
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+        <span class="faq-question">Can I start a Lean On Me hotline?</span>
+    </a>
+    </h4>
+</div>
+<div id="collapseSix" class="panel-collapse collapse">
+    <div class="panel-body">
+    <p style="color:#FF6A6A; size:15px">If you're part of a group that is interested in having a Lean On Me hotline, please <a style="color:#CC0000" class="faq-email" href="mailto:team@lean0n.me">email us</a> and our team will get back to you as soon as possible. Our service is still in the development phase, but we are looking to expand to other universities as well as other organizations in the future, and would love to start a conversation with you now!</p>
+    </div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+    <h4 class="panel-title">
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+        <span class="faq-question">How anonymous is it, really?</span>
+    </a>
+    </h4>
+</div>
+<div id="collapseSeven" class="panel-collapse collapse">
+    <div class="panel-body">
+    <p style="color:#FF6A6A; size:15px">Completely! When users text in, their number is encrypted, and their messages are conveyed to our Supporters by the hotline number itself. Neither the User nor the Supporter ever see the other’s number, both communicate solely with the hotline number. While we do know how many repeat Users we’ve had, we don’t know who Users are, we don’t know where Users live, or anything else Users don’t tell us throughout the course of the conversation itself for that matter.</p>
+    </div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+    <h4 class="panel-title">
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapseHeight">
+        <span class="faq-question">Is this also a suicide hotline? Can I text in a crisis situation?</span>
+    </a>
+    </h4>
+</div>
+<div id="collapseHeight" class="panel-collapse collapse">
+    <div class="panel-body">
+    <p style="color:#FF6A6A; size:15px">We are not a suicide hotline, nor are we trained to deal with crisis-level situations. We’re just kind peers willing to listen and talk, but if you need urgent help or find yourself in a crisis, please call 9-1-1, or text “HOME” to the <a style="color:#CC0000" href="http://www.crisistextline.org/">National Crisis Textline</a> at 741-741.</p>
+    </div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading">
+    <h4 class="panel-title">
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapsenine">
+        <span class="faq-question">How can I provide feedback?</span>
+    </a>
+    </h4>
+</div>
+<div id="collapsenine" class="panel-collapse collapse">
+    <div class="panel-body" style="color:#FF6A6A">
+    <span class="faq-answer">
+    <p style="color:#FF6A6A; size:15px">Feedback is always welcome! If you have a suggestion, please drop us a line at <a style="color:#CC0000" class="faq-email" href="mailto:team@lean0n.me" target="_blank">team@lean0n.me</a>! We are constantly thinking about how to improve the Lean On Me network and technology, so we would love to hear from you.</p>
+    </span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+    <section class="light-bg container content-section text-center" id="resources">
+        <div class="find-hotline-body">
+            <div class="container">
+                <div class="col-md-12">
+                    <span class="find-hotline-span title-text">Resources</span><br>
+                    <br>
+                    <div class="hotline-school col-md-6">
+                        <div class="chapter">
+                            <a class="chapter-link" href="http://lean0n.me/mit" target="_blank">
+                            <div class="pickgradient">
+                                <img class="img-rounded school-img" src="img/mit_aerial.jpg">
+                            </div>
+                            <div class="chapter-description">
+                                MIT
+                            </div></a>
+                        </div>
+                    </div>
+                    <div class="hotline-school col-md-6">
+                        <div class="chapter">
+                            <a class="chapter-link" href="http://lean0n.me/uchicago" target="_blank">
+                            <div class="pickgradient">
+                                <img class="img-rounded school-img" src="img/uchicago_aerial.jpg">
+                            </div>
+                            <div class="chapter-description">
+                                UChicago
+                            </div></a>
+                        </div>
+                    </div>
+                    <div class="hotline-school col-md-6">
+                        <div class="chapter">
+                            <a class="chapter-link" href="http://lean0n.me/upenn" target="_blank">
+                            <div class="pickgradient">
+                                <img class="img-rounded school-img" src="img/upenn_pic.jpg">
+                            </div>
+                            <div class="chapter-description">
+                                UPenn
+                            </div></a>
+                        </div>
+                    </div>
+                    <div class="hotline-school col-md-6">
+                        <div class="chapter">
+                            <a class="chapter-link" href="http://lean0n.me/huntington" target="_blank">
+                            <div class="pickgradient">
+                                <img class="img-rounded school-img" src="img/huntington_aerial.jpg">
+                            </div>
+                            <div class="chapter-description">
+                                Huntington
+                            </div></a>
+                        </div>
+                    </div>
+                    <div class="hotline-school col-md-6">
+                        <div class="chapter">
+                            <a class="chapter-link" href="http://lean0n.me/ucdenvermed" target="_blank">
+                                <div class="pickgradient">
+                                    <img class="img-rounded school-img" src="img/ucdenvermed_aerial.png">
+                                </div>
+                                <div class="chapter-description">
+                                    UC Denver
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="hotline-school col-md-6">
+                        <div class="chapter">
+                            <a class="chapter-link" href="http://lean0n.me/bc" target="_blank">
+                                <div class="pickgradient">
+                                    <img class="img-rounded school-img" src="img/bc_aerial.png">
+                                </div>
+                                <div class="chapter-description">
+                                    BC
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="hotline-school col-md-6">
+                        <div class="chapter">
+                            <a class="chapter-link" href="http://lean0n.me/psu" target="_blank">
+                                <div class="pickgradient">
+                                    <img class="img-rounded school-img" src="img/psu_aerial.png">
+                                </div>
+                                <div class="chapter-description">
+                                    Penn State
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        Our movement is growing. If you want Lean On Me at your college or organization, <a class="find-hotline-link" href="mailto:team@lean0n.me" target="_blank">email us</a> to start a conversation.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+  -->
+</body>
+</html>

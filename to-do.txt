@@ -1,5 +1,0 @@
-- make fun logo work
-- incorporate fun logo into site
-- populate site contents
-- design site
-- publish site and test / iterate

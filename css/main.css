@@ -9,39 +9,46 @@ image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
 image-rendering: crisp-edges;
 -ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
 /* COLORS */
-  .faq-answer{
-    color:#ffaaaa;
-  }
   .white {
     color: white;
   }
-  .white-bg {
-    background-color: white;
-    color: #5FD3BC;
-  }
-  .guide-description{
-    color:#FFFFFF;
-  }
-  .white-bg .guide-description ,
-  .white-bg .faq-answer {
-    color: #007C64;
-  }
-  .white-bg a:visited,
-  .white-bg a:link {
-    color: #5FD3BC;
-    text-decoration: underline;
-  }
-  .white-bg a:hover,
-  .white-bg a:active {
-    color: #CC0000 !important;
-  }
-  .light {
-    color: #5FD3BC;
-  }
-  .light-bg{
-    background-color: #5FD3BC;
+  .salmon-bg{
+    background-color: #FF8c8c;
     color: white;
   }
+  .blue-bg{
+    background-color: #9bdaff;
+    color: white;
+  }
+  .brown-bg{
+    background-color: #f2c39d;
+    color: white;
+  }
+  .white-bg{
+    background-color: white;
+    color: #FF8c8c;
+  }
+
+  .headshot-div {
+    display: block;
+    margin: auto;
+  }
+  .headshot {
+    width: 200px;
+    height: 200px;
+  }
+
+
+    .salmon-bg a {
+      color: white;
+      text-decoration: underline;
+    }
+    .salmon-bg a:hover,
+    .salmon-bg a:active {
+      color: #CC0000 !important;
+    }
+
+
   .light-bg a {
     color: white;
     text-decoration: underline;
@@ -53,8 +60,29 @@ image-rendering: crisp-edges;
   }
   .light-bg a:hover,
   .light-bg a:active {
-    color: #007C64 !important;
+    color: #CC0000 !important;
   }
+
+
+
+  .white-bg {
+    background-color: white;
+    color: #FF6A6A;
+  }
+
+  .white-bg a:visited,
+  .white-bg a:link {
+    color: #FF6A6A;
+    text-decoration: underline;
+  }
+  .white-bg a:hover,
+  .white-bg a:active {
+    color: #CC0000 !important;
+  }
+  .light {
+    color: #FF8c8c;
+  }
+
   .dark{
     color: #CC0000;
   }
@@ -104,53 +132,59 @@ image-rendering: crisp-edges;
   }
 
   a.btnonlight{
-    border: 1px solid #5FD3BC !important;
-    color: #5FD3BC !important;
+    border: 1px solid #FF6a6a !important;
+    color: #FF6a6a !important;
   }
 
   a.btnonlight:hover{
-    border: 1px solid #007C64 !important;
-    color: #007C64 !important;
+    border: 1px solid #FFFFFF !important;
+    color: #CC0000 !important;
   }
   a.btnondark{
     border: 1px solid #FFFFFF !important;
     color: #FFFFFF !important;
   }
   a.btnondark:hover{
-    border: 1px solid #007C64 !important;
-    color: #00FFCD !important;
+    border: 1px solid #FF6A6A !important;
+    color: #CC0000 !important;
   }
 
   a.btn.btn-default:hover {
-    border: 1px solid #007C64 !important;
-  }
-
-  a.landing-tel {
-    text-decoration: none !important;
+    border: 1px solid transparent !important;
   }
 
 /* Logo */
-  img.leanonme-logo-nav {
-      height: 30px;
-      margin-top: -7px;
+  img.empa-logo-nav {
+      height: 40px;
+      margin-top: -5px;
   }
 
-  img.landing-logo {
-    padding-top: 5px;
-    width: 700px;
+  img.empa-logo {
+    padding-top: 95px;
+    width: 480px;
+    padding-bottom: 50px;
+  }
+
+  h2.landing-sub {
+    font-size: 36px !important;
   }
 
 /* Navbar */
   nav.navbar.navbar-custom.top-nav-collapse {
-    background-color: #5FD3BC;
+    background-color: #ff8c8c;
 
+  }
+
+  nav.navbar.navbar-custom.top-nav-collapse a:hover,
+  nav.navbar.navbar-custom.top-nav-collapse a:active {
+    color: #CC0000 !important;
   }
 
   .navbar-nav>li>a {
     padding-top: 21px !important;
-    padding-left: 8px !important;
-    padding-right: 8px !important;
-    font-size: 13px;
+    padding-left: 12px !important;
+    padding-right: 12px !important;
+    font-size: 18px;
   }
 
   nav.navbar.navbar-custom {
@@ -183,9 +217,10 @@ image-rendering: crisp-edges;
 
 
   span.title-text {
-    font-size: 30px;
+    font-size: 55px;
     display: block;
-    padding-bottom: 20px;
+    padding-bottom: 75px;
+    margin-top: -35px;
     /*font-family: 'Bebas Neue' !important;*/
   }
 
@@ -196,17 +231,99 @@ image-rendering: crisp-edges;
     min-height: 100%;
     margin: 0;
     width: 100% !important;
-    padding-top: 4%;
-    padding-bottom: 5%;
+    padding-top: 10%;
+    padding-bottom: 16%;
 
     display: flex;
     justify-content: center;
     flex-direction: column;
   }
 
-  .intro-phone{
+  p.mobile-p {
+    font-size: 32px !important;
+  }
+  p.mobile-legal {
+    font-size: 32px;
+  }
+  p.mobile-contact {
+    font-size: 24px;
+  }
+
+  @media (max-width: 1199px) {
+
+  }
+  @media (max-width: 767px) {
+    h2 {
+      font-size: 28px;
+    }
+    img.empa-logo {
+      width: 300px !important;
+      margin-top: 150px;
+      margin-bottom: 30px;
+    }
+    .navbar-nav>li>a {
+      font-size: 23px;
+    }
+    img.empa-logo-nav {
+        height: 40px;
+        margin-top: -1px;
+    }
+    .title-text {
+      padding-top: 85px;
+      padding-bottom: 45px !important;
+    }
+    .guide-description {
+      font-size: 26px;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 25px !important;
+    }
+    .mobile-p {
+      font-size: 38px !important;
+      padding-left: 18px !important;
+    }
+    .headshot-div {
+      margin-top: -20px;
+      padding-bottom: 30px;
+    }
+    .mobile-headshot {
+      width: 300px !important;
+      height: 300px !important;
+    }
+    p.mobile-legal {
+      font-size: 34px !important;
+    }
+    p.mobile-contact {
+      font-size: 24px !important;
+      padding-left: 10px;
+      padding-right: 10px;
+      padding-top: 20px;
+    }
+  }
+
+  .mobile-headshot {
+    width:200px !important;
+    height:200px !important;
+    margin:auto;
+    display:block;
+  }
+
+  .landing-phone{
+    padding-top: 20px;
+    font-size: 52px;
+  }
+
+  .landing-phone:hover{
     font-size: 64px;
   }
+
+  .guide-description {
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 80px;
+    font-size: 18px;
+  }
+
 
 /* team Section*/
   .team {
@@ -248,7 +365,6 @@ image-rendering: crisp-edges;
       .team .team-body .team-text {
           font-size: 26px;
       }
-
   }
 
   div.team-member {
@@ -276,7 +392,7 @@ image-rendering: crisp-edges;
 
   .white-bg span.person-title,
   .white-bg a.person-title{
-    color: #5FD3BC;
+    color: #FF6A6A;
   }
 
   span.person-name {
@@ -346,7 +462,7 @@ image-rendering: crisp-edges;
     /*font-family: 'Bebas Neue' !important;*/
     /*padding-left: 0.5em;
     padding-right: 0.5em;*/
-    /*background-color: #5FD3BC;*/
+    /*background-color: #FF6A6A;*/
     /*opacity: 0.9;*/
     border-radius: 5pt;
   }
@@ -382,17 +498,17 @@ image-rendering: crisp-edges;
         .img-center {margin:0 auto;}
         .dl-horizontal dt{white-space: normal;}
         .omacenter{margin-left:auto; margin-right:auto;}
-        .titre{color:#007C64;}
-        .entete{background-color: #5FD3BC;width:80%;margin-left:10%;}
+        .titre{color:#ff6a6a;}
+        .entete{background-color: #FF6A6A;width:80%;margin-left:10%;}
 
   section span.guide-header-num {
       font-size: 24px;
       font-weight: bold;
-      color:#007C64
+      color:#ff6a6a
   }
 
   .white-bg .guide-header{
-    color:#007C64;
+    color:#ff6a6a;
   }
 
   .light-bg .guide-header{
@@ -411,17 +527,18 @@ image-rendering: crisp-edges;
   section span.faq-question {
       font-size: 18px;
       font-weight: bold;
-      color:#007C64;
+      color:#ff6a6a;
+  }
+
+  .guide-header {
+    display: block;
   }
 
   .guide-header-pic{
-    display: block !important;
-    margin: auto !important;
-
-    text-align: center !important;
-    display: inline-block;
-    margin:0px;
+    width: 300px;
+    height: 100px;
   }
+
   .circled {
     display: block !important;
     margin: auto !important;
@@ -462,30 +579,4 @@ image-rendering: crisp-edges;
     color:#FFFFFF !important;
     font-size: 18px;
     font-weight: bold;
-  }
-
-  @media(max-width:800px){
-    img.landing-logo {
-      width: 500px;
-      padding-bottom: 30px;
-    }
-    h2.landing-subtitle {
-      font-size: 23px;
-      margin-top: 0px;
-      line-height: 45px;
-      margin-bottom: 0px;
-    }
-  }
-
-  @media(max-width:510px){
-    img.landing-logo {
-      width: 290px;
-      padding-bottom: 25px;
-    }
-    h2.landing-subtitle {
-      font-size: 18px;
-      margin-top: 0px;
-      line-height: 35px;
-      margin-bottom: 0px;
-    }
   }

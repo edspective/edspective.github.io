@@ -3,6 +3,8 @@ layout: insights
 permalink: /insights/
 ---
 
+https://docs.google.com/document/d/1RJIq9zwXqXaljCB996y6x-ybTd44XTyMv9RrvHh0spM/edit
+
 # 8/8/18
 
 ## SUMMARY
