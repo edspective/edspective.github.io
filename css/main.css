@@ -246,7 +246,7 @@ image-rendering: crisp-edges;
     font-size: 32px;
   }
   p.mobile-contact {
-    font-size: 24px;
+    font-size: 36px;
   }
 
   @media (max-width: 1199px) {
@@ -294,7 +294,7 @@ image-rendering: crisp-edges;
       font-size: 34px !important;
     }
     p.mobile-contact {
-      font-size: 24px !important;
+      font-size: 36px !important;
       padding-left: 10px;
       padding-right: 10px;
       padding-top: 20px;

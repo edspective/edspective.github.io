@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="edspective-mag-v3.svg"
-   inkscape:export-filename="/Users/atratt/Documents/g/edspective.github.io/img/edspective-mag-v3.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-filename="/Users/atratt/Documents/g/edspective.github.io/img/edspective-mag-v3-transparent.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      pagecolor="#5fd3bc"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="269.2386"
+     inkscape:cx="189.33554"
      inkscape:cy="137.36922"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
